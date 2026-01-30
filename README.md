@@ -2,7 +2,8 @@
 
 A complete interactive **Sales Analytics Dashboard** built to analyze revenue, profit, product performance, customer contribution, and business segments using BI tools.
 
-![Dashboard Preview](Bicycle_Shop_Sales_Dashboard.png)
+<img width="1373" height="773" alt="Bicycle_Shop_Sales_Dashboard" src="https://github.com/user-attachments/assets/8f18706a-7923-43f4-b823-7555ebc677f8" />
+
 
 ---
 
@@ -96,16 +97,6 @@ This dashboard helps:
 3. Refresh data
 4. Use filters for Year and Month
 5. Analyze KPIs and trends
-
----
-
-## 📸 Dashboard Preview
-
-Add the image file in your repo:
-
-```
-Bicycle_Shop_Sales_Dashboard.png
-```
 
 ---
 
